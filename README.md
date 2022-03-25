@@ -1,1 +1,2 @@
-https://skyRen84.github.io/rsschool-cv/cv
+# rsschool-cv
+https://skyren84.github.io/rsschool-cv/
